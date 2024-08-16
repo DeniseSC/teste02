@@ -574,6 +574,16 @@ footer .line-footer p a{
 
  /* DESTAQUES */
 
+.destaques h2{
+    text-align: center;
+ }
+
+ .content{
+    height: 80%;
+    width: 80%;
+ }
+
+
   /* SOBRE */
   
  .sobre .img-sobre img{
